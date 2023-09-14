@@ -12,11 +12,11 @@ schedule:
       - name: Lecture
         start: 9:30 AM
         end: 11:00 AM
-        location: 150 Wheeler
+        location: Room 1
       - name: Section
         start: 11:00 AM
         end: 12:30 PM
-        location: 310 Soda
+        location: Room 2
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
