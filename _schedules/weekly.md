@@ -9,12 +9,16 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Section
+      - name: Lecture
         start: 9:30 AM
         end: 11:00 AM
-        location: Room 1 (BSCS 7th Reg)
+        location: 150 Wheeler
       - name: Section
         start: 11:00 AM
         end: 12:30 PM
-        location: Room 2 (BSCS 7th Self)
- ---
+        location: 310 Soda
+  - name: Tuesday
+  - name: Wednesday
+  - name: Thursday
+  - name: Friday
+---
