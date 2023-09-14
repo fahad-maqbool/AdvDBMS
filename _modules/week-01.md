@@ -6,7 +6,7 @@ Sep 04(Mon)
 : [DBMS Overview](slides/1,2- Revision.pptx)
   : -
   
-Sep 05(Tue) / Sep 06(Wed)
+Sep 05(Tue)
 : [Types of Databases](slides/1,2- Revision.pptx)
   : -
 
@@ -14,7 +14,7 @@ Sep 11(Mon)
 : [Schemas](slides/3- Schemas.pptx)
   : -
 
-Sep 12(Tue) / Sep 13(Wed)
+Sep 12(Tue)
 : [What is Data Warehouse?](slides/4- DWH.pptx)
   : -
 
