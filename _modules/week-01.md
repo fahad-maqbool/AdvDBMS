@@ -2,21 +2,21 @@
 title: Basic Concepts
 ---
 
-Sep 04(Mon)
+1
 : [DBMS Overview](slides/1,2- Revision.pptx)
-  : -
+  : Sep 04(Mon)
   
-Sep 05(Tue)
+2
 : [Types of Databases](slides/1,2- Revision.pptx)
-  : -
+  : Sep 05(Tue) / Sep 06(Wed)
 
-Sep 11(Mon)
+3
 : [Schemas](slides/3- Schemas.pptx)
-  : -
+  : Sep 11(Mon)
 
-Sep 12(Tue)
+4
 : [What is Data Warehouse?](slides/4- DWH.pptx)
-  : -
+  : Sep 12(Tue)
 
 Sep 05/06
 : **Section**{: .label .label-purple }[Intro to Java](#)
