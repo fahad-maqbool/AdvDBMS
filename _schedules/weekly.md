@@ -9,24 +9,28 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Regular BSCS 7th
+      - name: Section
         start: 9:30 AM
         end: 11:00 AM
-        location: Room 1
-      - name: Self BSCS 7th
+        location: Room 1 (BSCS 7th Reg)
+      - name: Section
         start: 11:00 AM
         end: 12:30 PM
-        location: Room 2
+        location: Room 2 (BSCS 7th Self)
   - name: Tuesday
     events:
-      - name: Regular BSCS 7th
+      - name: Section
         start: 9:30 AM
         end: 11:00 AM
-        location: Room 1
+        location: Room 1 (BSCS 7th Reg)
   - name: Wednesday
     events:
-      - name: Self BSCS 7th
+      - name: Section
         start: 11:00 AM
         end: 12:30 PM
-        location: Room 2
+        location: Room 2 (BSCS 7th Self)
+    - name: Thursday
+      events:
+    - name: Friday
+      events:
 ---
