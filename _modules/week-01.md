@@ -5,12 +5,15 @@ title: Basic Concepts
 Sep 04 (Mon)
 : DBMS Overview
   : -
+  
 Sep 05 (Tue)/Sep 06 (Wed)
 : Types of Databases
   : -
+
 Sep 11 (Mon)
 : Normalization
   : -
+
 Sep 12 (Tue)/Sep 13 (Wed)
 : What is Data Warehouse?
   : -
