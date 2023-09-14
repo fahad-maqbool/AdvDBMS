@@ -3,19 +3,19 @@ title: Basic Concepts
 ---
 
 Sep 04(Mon)
-: DBMS Overview
+: [DBMS Overview](slides/1,2- Revision.pptx)
   : -
   
 Sep 05(Tue) / Sep 06(Wed)
-: Types of Databases
+: [Types of Databases](slides/1,2- Revision.pptx)
   : -
 
 Sep 11(Mon)
-: Normalization
+: [Schemas](slides/3- Schemas.pptx)
   : -
 
 Sep 12(Tue) / Sep 13(Wed)
-: What is Data Warehouse?
+: [What is Data Warehouse?](slides/4- DWH.pptx)
   : -
 
 Sep 05/06
