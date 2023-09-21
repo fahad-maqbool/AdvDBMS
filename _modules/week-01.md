@@ -25,6 +25,7 @@ title: Basic Concepts
 6
 : [Data Mining - Classification Overview](https://github.com/fahad-maqbool/AdvDBMS/raw/main/slides/6-%20Data%20Mining.ppt)
   : Sep 19(Tue) / Sep 20(Wed)
-@
-: **Project**{: .label .label-purple } Project (Phase I):- Data Extraction From Boards of Intermediate and Secondary Education in Pakistan 
+
+6A
+: **Project**{: .label .label-purple } Project Phase I:- Data Extraction From Boards of Intermediate and Secondary Education in Pakistan 
 : Sep 25(Thu)
