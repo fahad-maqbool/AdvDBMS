@@ -3,11 +3,11 @@ title: Basic Concepts
 ---
 
 1
-: [DBMS Overview](slides/1,2- Revision.pptx)
+: [DBMS Overview]([slides/1,2- Revision.pptx](https://github.com/fahad-maqbool/AdvDBMS/raw/main/slides/1%2C2-%20Revision.pptx))
   : Sep 04(Mon)
   
 2
-: [Types of Databases](slides/1,2- Revision.pptx)
+: [Types of Databases]([slides/1,2- Revision.pptx](https://github.com/fahad-maqbool/AdvDBMS/raw/main/slides/1%2C2-%20Revision.pptx))
   : Sep 05(Tue) / Sep 06(Wed)
 
 3
