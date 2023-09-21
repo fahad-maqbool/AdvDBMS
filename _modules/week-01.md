@@ -27,5 +27,5 @@ title: Basic Concepts
   : Sep 19(Tue) / Sep 20(Wed)
 
 6A
-: **Project**{: .label .label-purple } Project Phase I:- Data Extraction From Boards of Intermediate and Secondary Education in Pakistan 
+: **Project**{: .label .label-purple } [Project Phase I](https://github.com/fahad-maqbool/AdvDBMS/raw/main/Project/Phase-I.md)
 : Sep 25(Thu)
