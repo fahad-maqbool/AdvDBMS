@@ -11,25 +11,20 @@ title: Basic Concepts
   : Sep 05(Tue) / Sep 06(Wed)
 
 3
-: [Schemas](slides/3- Schemas.pptx)
+: [Schemas](https://github.com/fahad-maqbool/AdvDBMS/raw/main/slides/3-%20Schemas.pptx)
   : Sep 11(Mon)
 
 4
-: [What is Data Warehouse?](slides/4- DWH.pptx)
-  : Sep 12(Tue)
+: [What is Data Warehouse?](https://github.com/fahad-maqbool/AdvDBMS/raw/main/slides/4-%20DWH.pptx)
+  : Sep 12(Tue) / Sep 13(Wed)
 
-Sep 05/06
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+5
+: [What is Data Warehouse?](https://github.com/fahad-maqbool/AdvDBMS/raw/main/slides/4-%20DWH.pptx)
+  : Sep 18(Mon)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+6
+: [Data Mining - Classification Overview](https://github.com/fahad-maqbool/AdvDBMS/raw/main/slides/6-%20Data%20Mining.ppt)
+  : Sep 19(Tue) / Sep 20(Wed)
+@
+: **Project**{: .label .label-purple } Project (Phase I):- Data Extraction From Boards of Intermediate and Secondary Education in Pakistan 
+: Sep 25(Thu)
