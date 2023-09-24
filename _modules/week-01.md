@@ -27,5 +27,5 @@ title: Basic Concepts
   : Sep 19(Tue) / Sep 20(Wed)
 
 6A
-: **Project**{: .label .label-purple } [Project Phase I](https://github.com/fahad-maqbool/AdvDBMS/blob/eb4277e57d30c878dcb1a549b5d227be0cea7023/Project/Adv%20DBMS%20Project%20Phase%20I.pdf)
+: **Project**{: .label .label-purple } [Project Phase I](https://github.com/fahad-maqbool/AdvDBMS/blob/f15f3a2dfe8d95d3a380b91c6eef132bdfc50a71/Project/Adv%20DBMS%20Project%20Phase%20I.pdf)
   : Sep 25(Thu)
