@@ -37,3 +37,8 @@ title: Basic Concepts
 8
 : [ETL](https://github.com/fahad-maqbool/AdvDBMS/blob/0702e194f57855e70ffd159c58011dc4383bd148/slides/ETL.pptx)
   : Sep 26(Tue) / Sep 27(Wed)
+
+8A
+: [Quiz 1 Score](https://github.com/fahad-maqbool/AdvDBMS/blob/0beb17ead1992b28d9d2cae4cf5f600dc68f79ab/evaluation/Quiz%201%20Score.pdf
+)
+  : Sep 26(Tue)
