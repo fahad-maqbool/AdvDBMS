@@ -29,3 +29,11 @@ title: Basic Concepts
 6A
 : **Project**{: .label .label-purple } [Project Phase I](https://github.com/fahad-maqbool/AdvDBMS/blob/f15f3a2dfe8d95d3a380b91c6eef132bdfc50a71/Project/Adv%20DBMS%20Project%20Phase%20I.pdf)
   : Sep 25(Thu)
+
+7
+: [What is Big Data?](https://github.com/fahad-maqbool/AdvDBMS/blob/0702e194f57855e70ffd159c58011dc4383bd148/slides/1-%20What%20is%20Big%20data.pptx)
+  : Sep 25(Mon)
+
+8
+: [ETL](https://github.com/fahad-maqbool/AdvDBMS/blob/0702e194f57855e70ffd159c58011dc4383bd148/slides/ETL.pptx)
+  : Sep 26(Tue) / Sep 27(Wed)
