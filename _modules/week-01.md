@@ -41,3 +41,11 @@ title: Basic Concepts
 8A
 : [Quiz 1 Score](https://github.com/fahad-maqbool/AdvDBMS/blob/0beb17ead1992b28d9d2cae4cf5f600dc68f79ab/evaluation/Quiz%201%20Score.pdf)
   : Sep 26(Tue)
+
+9
+: [ETL](https://github.com/fahad-maqbool/AdvDBMS/blob/0702e194f57855e70ffd159c58011dc4383bd148/slides/ETL.pptx)
+  : Oct 2(Mon)
+
+10
+: [B Trees](https://github.com/fahad-maqbool/AdvDBMS/blob/706715b711e5643ef7f25ba9bf1e99027368086c/slides/BTrees.ppt)
+  : Oct 3(Tue) / Oct 4(Wed)
