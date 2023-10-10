@@ -58,3 +58,6 @@ title: Basic Concepts
 : [De Normalization](https://github.com/fahad-maqbool/AdvDBMS/blob/5c4014c16a4047cc2478d922862c4579a0e4ba4f/slides/De%20Normalization.pptx)
   : Oct 10(Tue) / Oct 11(Wed)
 
+12A
+: **Project**{: .label .label-purple } [Project Phase II]()
+  : Oct 12(Thu)
