@@ -39,7 +39,7 @@ title: Basic Concepts
   : Sep 26(Tue) / Sep 27(Wed)
 
 8A
-: : **Quiz 1**{: .label .label-red }(https://github.com/fahad-maqbool/AdvDBMS/blob/0beb17ead1992b28d9d2cae4cf5f600dc68f79ab/evaluation/Quiz%201%20Score.pdf)
+: : **Quiz**{: .label .label-red }[Quiz 1](https://github.com/fahad-maqbool/AdvDBMS/blob/0beb17ead1992b28d9d2cae4cf5f600dc68f79ab/evaluation/Quiz%201%20Score.pdf)
   : Sep 26(Tue)
 
 9
