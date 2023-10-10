@@ -49,3 +49,12 @@ title: Basic Concepts
 10
 : [B Trees](https://github.com/fahad-maqbool/AdvDBMS/blob/706715b711e5643ef7f25ba9bf1e99027368086c/slides/BTrees.ppt)
   : Oct 3(Tue) / Oct 4(Wed)
+
+11
+: [B Trees](https://github.com/fahad-maqbool/AdvDBMS/blob/706715b711e5643ef7f25ba9bf1e99027368086c/slides/BTrees.ppt)
+  : Oct 9(Mon)
+
+12
+: [De Normalization]([https://github.com/fahad-maqbool/AdvDBMS/blob/706715b711e5643ef7f25ba9bf1e99027368086c/slides/BTrees.ppt](https://github.com/fahad-maqbool/AdvDBMS/blob/5c4014c16a4047cc2478d922862c4579a0e4ba4f/slides/De%20Normalization.pptx)https://github.com/fahad-maqbool/AdvDBMS/blob/5c4014c16a4047cc2478d922862c4579a0e4ba4f/slides/De%20Normalization.pptx)
+  : Oct 10(Tue) / Oct 11(Wed)
+
