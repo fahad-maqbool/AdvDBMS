@@ -59,5 +59,5 @@ title: Basic Concepts
   : Oct 10(Tue) / Oct 11(Wed)
 
 12A
-: **Assignment**{: .label .label-yelooow } [Assignment 1](https://github.com/fahad-maqbool/AdvDBMS/blob/61284bf9256ad254312d12b4ecb46cc94c1f33c5/Assignment1/Assign1.pdf) & [Dataset](https://github.com/fahad-maqbool/AdvDBMS/blob/61284bf9256ad254312d12b4ecb46cc94c1f33c5/Assignment1/Scouting_Data.xlsx)
+: **Assignment**{: .label .label-yellow } [Assignment 1](https://github.com/fahad-maqbool/AdvDBMS/blob/61284bf9256ad254312d12b4ecb46cc94c1f33c5/Assignment1/Assign1.pdf) & [Dataset](https://github.com/fahad-maqbool/AdvDBMS/blob/61284bf9256ad254312d12b4ecb46cc94c1f33c5/Assignment1/Scouting_Data.xlsx)
   : Oct 12(Thu)
