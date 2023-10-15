@@ -61,3 +61,7 @@ title: Basic Concepts
 12A
 : **Assignment**{: .label .label-yellow } [Assignment 1](https://github.com/fahad-maqbool/AdvDBMS/blob/61284bf9256ad254312d12b4ecb46cc94c1f33c5/Assignment1/Assign1.pdf) & [Dataset](https://github.com/fahad-maqbool/AdvDBMS/blob/61284bf9256ad254312d12b4ecb46cc94c1f33c5/Assignment1/Scouting_Data.xlsx)
   : Oct 12(Thu)
+
+13
+: [Map Reduce](https://github.com/fahad-maqbool/AdvDBMS/blob/ff00a59222a236c3d1c437051920e18f806d46d2/slides/Map%20Reduce.pptx)
+  : Oct 16(Mon)
